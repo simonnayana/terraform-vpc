@@ -23,7 +23,7 @@ In this Terraform script, I am creating a **VPC** with 6 *subnets*(3 public and 
 - Define variable for AWS region in *variables.tf*
 ```hcl
 variable "region" {
-    default = "ap-south-1"
+    default = "us-west-2"
 }
 ```
 >***region*** <=========== AWS region in which you are going to work
