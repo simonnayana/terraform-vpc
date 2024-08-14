@@ -1,0 +1,8 @@
+region                  = ""
+project                 = ""
+vpc-cidr                = ""
+vpc-subnet              = ""
+accepter_vpc_id         = ""
+accepter_vpc_cidr_block = ""
+role                    = ""
+accepter_routetable_id  = ""
